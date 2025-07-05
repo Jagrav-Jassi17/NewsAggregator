@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+*.log
+*.sqlite3
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Recordings and misc
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+
+# Other
+*.zip
+*.tar
+*.rar
+*.db
