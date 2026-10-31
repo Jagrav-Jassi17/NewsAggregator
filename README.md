@@ -1,15 +1,4 @@
-</p>
-<h1 align = 'center'>News Aggregator</h1>
-<br>
 
-<br>
-
-[![](https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python)](https://www.python.org "Python3")[![](https://img.shields.io/badge/Made_with-Django-blue?style=for-the-badge&logo=django)](https://www.djangoproject.com/ "Django")
-
-</p>
-
-## Description
-</p>
 <h1 align = 'center'>News Aggregator</h1>
 <br>
 
